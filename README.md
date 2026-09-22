@@ -27,7 +27,7 @@ alt="azure" width="40" height="40"/>
 
 <!-- Azure Data Factory -->
 <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/Azure-Player/icons-and-symbols/master/AzureDataFactory/MappingDataFlow/PNG/Data%20Factory.png"
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tx-9kWvKqoXvynaLG9ngBg.png"
 alt="azure-data-factory" width="40" height="40"/>
 </a>
 
