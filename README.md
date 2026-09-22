@@ -57,7 +57,7 @@ alt="sql" width="40" height="40"/>
 
 <!-- Delta Lake -->
 <a href="https://delta.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/delta-io/delta/master/docs/source/_static/delta-lake-logo.png"
+<img src="https://cdn.prod.website-files.com/68c803b3497f18f5503b830d/68da505ee9382ac2316b3e67_66192bf45f99cf9cd103c8b3_delta.svg"
 alt="delta-lake" width="40" height="40"/>
 </a>
 
