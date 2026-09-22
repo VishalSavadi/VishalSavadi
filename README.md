@@ -19,14 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
 <!-- Azure -->
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
