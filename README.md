@@ -33,7 +33,7 @@ alt="azure-data-factory" width="40" height="40"/>
 
 <!-- Databricks -->
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"
+<img src="https://az-icons.com/images/azure-databricks/icon.svg"
 alt="databricks" width="40" height="40"/>
 </a>
 
