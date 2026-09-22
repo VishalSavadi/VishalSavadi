@@ -23,82 +23,92 @@
 
 <p align="left">
 
-<!-- Microsoft Azure -->
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<!-- Azure -->
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4"
-       alt="Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+alt="azure" width="40" height="40"/>
 </a>
 
 <!-- Azure Data Factory -->
 <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/azuredatafactory/0078D4"
-       alt="Azure Data Factory" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Azure-Player/icons-and-symbols/master/AzureDataFactory/MappingDataFlow/PNG/Data%20Factory.png"
+alt="azure-data-factory" width="40" height="40"/>
 </a>
 
 <!-- Databricks -->
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/databricks/FF3621"
-       alt="Databricks" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"
+alt="databricks" width="40" height="40"/>
 </a>
 
 <!-- Apache Spark -->
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C"
-       alt="Apache Spark" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"
+alt="apache-spark" width="40" height="40"/>
 </a>
 
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/python/3776AB"
-       alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+alt="python" width="40" height="40"/>
 </a>
 
 <!-- SQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1"
-       alt="SQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+alt="sql" width="40" height="40"/>
 </a>
 
 <!-- Delta Lake -->
 <a href="https://delta.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/delta/003366"
-       alt="Delta Lake" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/delta-io/delta/master/docs/source/_static/delta-lake-logo.png"
+alt="delta-lake" width="40" height="40"/>
 </a>
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/git/F05032"
-       alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+alt="git" width="40" height="40"/>
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF"
-       alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+alt="github" width="40" height="40"/>
 </a>
 
 <!-- Azure DevOps -->
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/azuredevops/0078D7"
-       alt="Azure DevOps" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/nicolaparo/azure-icons/main/64/icon-azure-devops.png"
+alt="azure-devops" width="40" height="40"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+alt="jenkins" width="40" height="40"/>
 </a>
 
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1"
-       alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+alt="postgresql" width="40" height="40"/>
 </a>
 
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/linux/FCC624"
-       alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+alt="linux" width="40" height="40"/>
 </a>
 
 <!-- Jupyter -->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/jupyter/F37626"
-       alt="Jupyter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+alt="jupyter" width="40" height="40"/>
 </a>
 
 </p>
